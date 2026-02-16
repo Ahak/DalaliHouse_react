@@ -1,0 +1,1 @@
+gunicorn dalali_house_management.wsgi
